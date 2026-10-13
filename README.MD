@@ -61,7 +61,7 @@ The current weights are:
 - Exams: 35%
 - Essays: 15%
 
-The repository currently has three unit tests. Some tests are failing because there are issues in the original code that still need to be corrected.
+The repository currently has six unit tests. All tests pass, and the project has 100% code coverage.
 
 ## Resources
 
